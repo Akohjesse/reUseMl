@@ -1,0 +1,11 @@
+{
+  "name": "html-components-js",
+  "version": "1.0.0",
+  "description": "Reuseable html components with javascript",
+  "main": "reUse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Akoh",
+  "license": "MIT"
+}
