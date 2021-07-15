@@ -6,11 +6,11 @@ Ypu create your html components and use the reUseMl script to render them
  # Set-Up
  > Create a directory of `/components` and store all your markup components  
  >    <br> 
- ![readme](src/components.png)
+ ![readme](md_assets/components.png)
  <br>
  
  > For small projects you can have your styling in your html using `<style></style>` tags   
- >  <br>![readme](/src/pic1.png) 
+ >  <br>![readme](/md_assets/pic1.png) 
  
  # Usage
 > Add the `reUse.js` file to html code, then also create another javascript file where you call the render method <br>
