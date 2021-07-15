@@ -1,7 +1,7 @@
 # reUseMl
 You create your html components and use the reUseMl script to render them
 # Installation
- For your simple usage of ReUSe dowload from [Here]()
+ For your simple usage of ReUSe dowload from [Here](https://github.com/Akohjesse/reUseMl/archive/refs/tags/v1.2.zip)
  
  # Set-Up
  > Create a directory of `/components` and store all your markup components , For small projects you can have your styling in your html using `<style></style>` tags
