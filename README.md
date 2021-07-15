@@ -1,15 +1,16 @@
 # reUseMl
-A simple library written in 8 lines of Es6 JS to render html components 
-
+Ypu create your html components and use the reUseMl script to render them
 # Installation
  For your simple usage of ReUSe dowload
  
  # Set-Up
- > Create a directory of `/components` and store all your markup components <br> 
+ > Create a directory of `/components` and store all your markup components  
+ >    <br> 
  ![readme](src/components.png)
  <br>
  
- > For small projects you can have your styling in your html using `<style></style>` tags <br>![readme](/src/pic1.png) 
+ > For small projects you can have your styling in your html using `<style></style>` tags   
+ >  <br>![readme](/src/pic1.png) 
  
  # Usage
 > Add the `reUse.js` file to html code, then also create another javascript file where you call the render method <br>
@@ -24,4 +25,6 @@ A simple library written in 8 lines of Es6 JS to render html components
 const reuse = new ReUseMl();
 reuse.render('components/header.html', '#header');
 ```
- 
+
+## License
+Distributed under the MIT license. See [LICENSE](https://github.com/Akohjesse/reUseMl/blob/main/LICENSE) for more information
