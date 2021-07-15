@@ -1,5 +1,5 @@
-# reUseMl
-You create your html components and use the reUseMl script to render them
+# ReUseMarkup
+You create your html components and use the reUseMl script to render them to your html document
 # Installation
  For your simple usage of ReUSe dowload from [Here](https://github.com/Akohjesse/reUseMl/archive/refs/tags/v1.2.zip)
  
